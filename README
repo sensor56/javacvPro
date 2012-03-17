@@ -1,0 +1,26 @@
+Library javacvPro
+By X.Hinault - all rights reserved
+License : GPLv3
+
+This library implement OpenCV 2.3.1 for Processing. 
+
+This Library is based on : 
+OpenCV 2.3.x : http://opencv.willowgarage.com/wiki/
+javacpp by Samuel Audet : http://code.google.com/p/javacpp/
+javacv by Samuel Audet : http://code.google.com/p/javacv/
+
+This Library is for Processing 1-5
+
+This library is useful with : 
+Library GSVideo : http://gsvideo.sourceforge.net/
+Library nyar4psg : http://nyatla.jp/nyartoolkit/wiki2/index.php?NyAR4psg.en
+
+This library is a distinct project from http://ubaa.net/shared/processing/opencv/
+
+The author : X. HINAULT
+I'm not a professionnal, just a french hobbyist. It's my first library for Processing. 
+I put this code online "as is" but it works well and I use it regurlary with success. 
+
+Website : http://www.mon-club-elec.fr/pmwiki_reference_lib_javacvPro/pmwiki.php
+
+
